@@ -41,4 +41,4 @@ overrides > El Golazo > base adjusted by A/B availability news. C/D news is only
 ## Commits
 
 Small commits, one source per commit, message like `avail: Hiroshima Kim Ju-sung DOUBT A (J.League R14)`.
-Pushing triggers the build. Check `gw/gwNN/changes.md` afterwards for anything flagged.
+Before committing, run `python scripts/build.py` and commit the regenerated `final.csv` and `changes.md` with your change (standard library only, nothing to install). The GitHub Action also rebuilds on push, but do not rely on it alone. Then read `gw/gwNN/changes.md` for anything flagged.
