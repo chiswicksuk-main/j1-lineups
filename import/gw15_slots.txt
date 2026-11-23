@@ -1,0 +1,222 @@
+# Read from J1 Lineups GW15 club tabs (slot table M7:Y19) on 23 Nov 2026
+# club|slot|player_id|player|start_pct|alternate|alt_pct
+Avispa Fukuoka|GK|MR1NsPbH|Nagaishi Takumi|80|Obata Yuma|20
+Avispa Fukuoka|RCB|Krg5HFaS|Oka Teppei|30||
+Avispa Fukuoka|CB|ADoSopEl|Kamijima Takumi|40||
+Avispa Fukuoka|LCB|zBJCcjeB|Mikuni Kennedy|60|Kamijima Takumi|40
+Avispa Fukuoka|RWB|jT2ryehG|Yuzawa Masato|30||
+Avispa Fukuoka|LWB|UiYBwUra|Hashimoto Yu|70|Yuzawa Masato|30
+Avispa Fukuoka|CM1|4OI1ucHo|Nago Shintaro|60||
+Avispa Fukuoka|CM2|CxbWaIym|Shiihashi Keiya|90||
+Avispa Fukuoka|AM1|htyTaRci|Miki Tomoya|90||
+Avispa Fukuoka|AM2|xWA8OaC3|Morooka Shu|80||
+Avispa Fukuoka|ST|6aOZmuVI|Werik Popo|40||
+Cerezo Osaka|GK|W2gAnweA|Nakamura Kosuke|90||
+Cerezo Osaka|RCB|4Op0XKni|Cools Dion|90||
+Cerezo Osaka|CB|I9hJmtqd|Inoue Rikito|90||
+Cerezo Osaka|LCB|6NFqRQVg|Hernandez Javi|30||
+Cerezo Osaka|RWB|Ee6elGkD|Okuda Hayato|70|Nakamura Takumi|30
+Cerezo Osaka|LWB|fwzNXsdM|Ohata Ayumu|90||
+Cerezo Osaka|CM1|fVxtoo6b|Tanaka Shunta|90||
+Cerezo Osaka|CM2|SvwMecZH|Irvine Jackson|90||
+Cerezo Osaka|AM1|6kXjN933|Komi Yota|0||
+Cerezo Osaka|AM2|dCKgW023|Uejo Satoki|60|Yokoyama Yumeki|30
+Cerezo Osaka|ST|xCFyZrMr|Sakuragawa Solomon|90||
+Chiba|GK|0rz4GFOI|Suarez Jose|100||
+Chiba|RB|GhBYVWlo|Nduka Boniface|100||
+Chiba|RCB|pOyU6etA|Mae Takayuki|100|Ishio Rikuto|20
+Chiba|LCB|GKJRUiI2|Suzuki Daisuke|100|Kawano Takashi|30
+Chiba|LB|WpxtQDnB|Hidaka Masaru|100||
+Chiba|RM|ttwkBqgl|Himeno Makoto|20||
+Chiba|CM1|jolG2yOP|Eduardo|100|Taguchi Taishi|30
+Chiba|CM2|hECeLcdC|Yasui Takuya|100||
+Chiba|LM|C2jqPGEo|Tsukui Takumi|100|Himeno Makoto|20
+Chiba|ST1|GANn7AeA|Erison|0|Rocha Leonardo|20
+Chiba|ST2|UDz1X5Ft|Yamura Ken|100|Ishikawa Daichi|20
+FC Tokyo|GK|xh6I9nD4|Kim Seung-Gyu|90||
+FC Tokyo|RB|WlxcFa1s|Omori Rio|60|Muroya Sei|40
+FC Tokyo|CB|t2NQwpc2|Scholz Alexander|90||
+FC Tokyo|LCB|hARvxzYg|Inamura Hayato|90||
+FC Tokyo|RWB|2aL80Yc8|Nagano Shuto|60|Tokiwa Kyota|40
+FC Tokyo|LWB|nmq2McPl|Hashimoto Kento|0||
+FC Tokyo|CM1|Cnmw6VIj|Ko Takahiro|70|Nagano Shuto|30
+FC Tokyo|CM2|rNfUxITr|Anzai Soma|90||
+FC Tokyo|LW|lIUwocI4|Tawaratsumida Kota|40||
+FC Tokyo|ST|jHl92Gbb|Nakagawa Teruhito|80|Marcelo Ryan|20
+FC Tokyo|RW|Wln2UVxD|Nagakura Motoki|80||
+Gamba Osaka|GK|Sh6wsQzf|Higashiguchi Masaaki|50|Ichimori Jun|50
+Gamba Osaka|RB|IkmGysUI|Hatsuse Ryo|90||
+Gamba Osaka|RCB|dYRKGgc2|Nakatani Shinnosuke|90||
+Gamba Osaka|LCB|OrvjsmOO|Fukuoka Shota|75|Miura Genta|25
+Gamba Osaka|LB|h41KLCgp|Kishimoto Takeru|70|Fujiwara Soya|30
+Gamba Osaka|DM|Gzr3zsID|Abe Shuto|90||
+Gamba Osaka|RM|bXpOd8V5|Yamashita Ryoya|90||
+Gamba Osaka|CM1|KpDU2SzS|Usami Takashi|80||
+Gamba Osaka|CM2|YR4wXg6e|Sumi Koshiro|20||
+Gamba Osaka|LM|OhZyRClJ|Suzuki Tokuma|0||
+Gamba Osaka|ST|hfWBXuHn|Jebali Issam|30||
+Sanfrecce Hiroshima|GK|lj1TfyEN|Osako Keisuke|90||
+Sanfrecce Hiroshima|RB|dtYvErFI|Arai Naoto|90||
+Sanfrecce Hiroshima|RCB|fihnFope|Kim Ju-Sung|80||
+Sanfrecce Hiroshima|LCB|nozTiQDq|Nakano Shuto|90||
+Sanfrecce Hiroshima|LB|OhH0vWqn|Araki Hayato|90||
+Sanfrecce Hiroshima|RM|2sRX1w7g|Kawabe Hayao|90||
+Sanfrecce Hiroshima|CM1|4EZAATvH|Higashi Shunki|80|Suga Daiki|20
+Sanfrecce Hiroshima|CM2|lrscbe6I|Asano Takuma|85|Yengi Kusini|15
+Sanfrecce Hiroshima|LM|UiSH4veB|Nakajima Yotaro|20||
+Sanfrecce Hiroshima|ST1|UaoSznYD|Ayukawa Shun|80|Haller Sebastien|20
+Sanfrecce Hiroshima|ST2|v7mrKZwg|Suzuki Akito|90||
+Kashima Antlers|GK|j7riesZ7|Hayakawa Tomoki|100||
+Kashima Antlers|RB|fB38uhme|Tsukui Keisuke|100|Koike Ryuta|20
+Kashima Antlers|RCB|re0ioyuT|Ueda Naomichi|100||
+Kashima Antlers|LCB|ljZAGxy9|Sekigawa Ikuma|100||
+Kashima Antlers|LB|dpxg9jM8|Ogawa Ryoya|100|Okawa Yugo|20
+Kashima Antlers|CM1|SQuTSYJ6|Misao Kento|100||
+Kashima Antlers|CM2|jqR08VnU|Matheus Bueno|100|Misao Kento|30
+Kashima Antlers|CM3|jwWkkVGq|Matsumura Yuta|100|Hayashu Haruki|20
+Kashima Antlers|LW|jcwmFxmo|Hayashu Haruki|100||
+Kashima Antlers|ST|IN84nZ9n|Leo Ceara|100||
+Kashima Antlers|RW|hQjkLsOs|Elber|100||
+Kashiwa Reysol|GK|08JXXFWr|Nagai Kengo|100|Kojima Ryosuke|10
+Kashiwa Reysol|RCB|G2P7KddC|Harada Wataru|100|Inukai Tomoya|20
+Kashiwa Reysol|CB|GSJrgJyG|Sugioka Daiki|100|Mitsumaru Hiromu|30
+Kashiwa Reysol|LCB|MwrXqvUh|Koga Taiyo|100|Inukai Tomoya|20
+Kashiwa Reysol|LWB|pzNj7AI0|Yamauchi Hinata|0|Yuruki Koya|25
+Kashiwa Reysol|CM1|fcNjRm4h|Koizumi Yoshio|100||
+Kashiwa Reysol|CM2|GStRRD7b|Yuba Kenshin|100||
+Kashiwa Reysol|CM3|pnxZZhoN|Toshima Sachiro|100|Harakawa Riki|30
+Kashiwa Reysol|RWB|xIg1lVAM|Nakagawa Nobuteru|0||
+Kashiwa Reysol|ST1|jR9WEx45|Kakita Yuki|100||
+Kashiwa Reysol|ST2|ngaPJ0w1|Endo Keita|100|Yuba Kenshin|30
+Kawasaki Frontale|GK|xnQ2YurF|Brodersen Svend|85|Thebault-Yamaguchi Louis|15
+Kawasaki Frontale|RB|0QTTljGC|Sasaki Asahi|70|Miura Sota|30
+Kawasaki Frontale|RCB|QuyDxLZf|Pedro Romano|90||
+Kawasaki Frontale|LCB|SdretQu9|Maruyama Yuichi|20||
+Kawasaki Frontale|LB|tEoFCVZm|Yamahara Reon|70|Miura Sota|30
+Kawasaki Frontale|CM1|ChQbP9Ng|Yamamoto Yuki|90||
+Kawasaki Frontale|CM2|juLDxe14|Wakizaka Yasuto|90||
+Kawasaki Frontale|CM3|tlDN6Nj3|Tachibanada Kento|80|Kawahara So|20
+Kawasaki Frontale|LW|EkMrawol|Ito Tatsuya|80|Yamaichi Shuto|20
+Kawasaki Frontale|ST|jmwUfsih|Derik Lacerda|80|Mochiyama Kyosuke|20
+Kawasaki Frontale|RW|Umiqe0mn|Marcinho|90||
+Vissel Kobe|GK|4GZS8kqF|Gonda Shuichi|100|Maekawa Daiya|20
+Vissel Kobe|RB|fVzFUKpP|Thuler Matheus|100||
+Vissel Kobe|RCB|Ieya9BE2|Sakai Gotoku|100||
+Vissel Kobe|LCB|OEECyHGh|Yamakawa Tetsushi|100|Caetano|20
+Vissel Kobe|LB|MmRtdva7|Diego|100|Sasaki Daiju|30
+Vissel Kobe|CM1|nFsquRHs|Iwamoto Yuan|100||
+Vissel Kobe|CM2|l23WMZLJ|Ideguchi Yosuke|100||
+Vissel Kobe|CM3|2oZobOMu|Erik|0|Goke Yuta|30
+Vissel Kobe|LW|z5IENaLt|Sasaki Daiju|100||
+Vissel Kobe|ST|OYzftLLu|Osako Yuya|100|Komatsu Ren|20
+Vissel Kobe|RW|8bbTIqDq|Muto Yoshinori|100||
+Kyoto|GK|f5heQzuH|Halls|70|Ota Gakuji|30
+Kyoto|RCB|G8PNZ1mk|Suzuki Yoshinori|90||
+Kyoto|CB|MsehZ73J|Tawiah Hisashi|70|Nagata Kodai|30
+Kyoto|LCB|ALVROJNu|Shichi Takaaki|70||
+Kyoto|LWB|GEuvsIIU|Arai Haruki|80||
+Kyoto|CM1|Qu2zuIPq|Fukuoka Shimpei|75||
+Kyoto|CM2|UkX34zGs|Yoon Sung-jun|90||
+Kyoto|RWB|ngY45L69|Sato Kyo|75||
+Kyoto|LW|xS8Qrq94|Joao Pedro|80||
+Kyoto|ST|rTA0Phdt|Rafael Elias|90||
+Kyoto|RW|vsfc9jVi|Souza Alex|80|Marco Tulio|20
+Machida|GK|EBqHJ83f|Tani Kosei|90||
+Machida|RWB|U5eJc1lj|Mochizuki Henry|70|Nakamura Hotaka|30
+Machida|RCB|MXlmnIbn|Kim Min-Tae|80||
+Machida|CB|OQCYWjRJ|Akimoto Takahiro|90||
+Machida|LCB|KCrs7IMJ|Dresevic Ibrahim|70|Ouwejan Thomas|30
+Machida|LWB|bkdADBKs|Nakamura Hotaka|30||
+Machida|CM1|x2hxtNut|Lavi Neta|80|Shimoda Hokuto|20
+Machida|CM2|zkOsuSHN|Mae Hiroyuki|90||
+Machida|LW|0xFkEenH|Ogawa Koki|80|Duke Mitchell|20
+Machida|ST|GflioxEh|Nishimura Takuma|80|Yengi Tete|20
+Machida|RW|ImC4kgFM|Soma Yuki|90||
+Yokohama F. Marinos|GK|n3rFNyGm|Iikura Hiroki|85|Park Il-gyu|15
+Yokohama F. Marinos|RB|EPRkre2N|Kimura Takuto|80|Inoue Taisei|20
+Yokohama F. Marinos|RCB|fi1q88sH|Quinones Jeison|90||
+Yokohama F. Marinos|LCB|lncYDfBi|Tsunoda Ryotaro|40||
+Yokohama F. Marinos|LB|vT7Z1uXd|Suzuki Toichi|80|Sekitomi Kanta|20
+Yokohama F. Marinos|DM1|Sl9w6n22|Matsumura Kosuke|90||
+Yokohama F. Marinos|DM2|GWvS4eAs|Tanaka Yuta|40||
+Yokohama F. Marinos|LW|t0MoA6X2|Amano Jun|70|Tono Daiya|20
+Yokohama F. Marinos|AM|jmRO1dmQ|Tono Daiya|70|Miidera Shin|30
+Yokohama F. Marinos|RW|zurjYIX2|Kondo Tomoki|90||
+Yokohama F. Marinos|ST|nojtqShj|Tanimura Kaina|90||
+Mito|GK|dInRxWRL|Slowik Jakub|100|Nishikawa Konosuke|30
+Mito|RWB|hCCM6TUg|Fofana Malick|0|Kimoto Yasuki|30
+Mito|RCB|IeqGfDmp|Itakura Kenta|100||
+Mito|CB|IRqD6bib|Osaki Koshi|100||
+Mito|LCB|WtCRSH55|Tamura Yuri|100||
+Mito|LWB|vNyZJQB8|Funabashi Yu|100||
+Mito|CM1|MNGQOJcB|Okumura Jin|100|Kato Chihiro|30
+Mito|CM2|t0RDaqJt|Nishihara Motoki|100|Yamamoto Hayata|30
+Mito|CM3|zNUDcG12|Semba Taishi|100||
+Mito|ST1|U7NJJz3r|Nemoto Ryo|100|Watanabe Arata|30
+Mito|ST2|QoSaqVfk|Tada Keisuke|0|Taniguchi Kaito|30
+V-Varen Nagasaki|GK|SjRXLP3t|Goto Masaaki|90||
+V-Varen Nagasaki|RB|h0X32Mse|Onaga Hijiri|80||
+V-Varen Nagasaki|RCB|n96QB1B0|Egawa Yusei|90||
+V-Varen Nagasaki|LCB|vRGsMsVr|Shindo Ryosuke|80|Arai Ikki|20
+V-Varen Nagasaki|LB|Y3y21gqi|Doi Kanta|80||
+V-Varen Nagasaki|RM|6aPobL4Q|Hasegawa Motoki|80|Yamada Riku|20
+V-Varen Nagasaki|CM1|fZS9KY5a|Yamaguchi Hotaru|90||
+V-Varen Nagasaki|CM2|QiA1xmop|Matheus Jesus|90||
+V-Varen Nagasaki|LM|SQuFbAWm|Yoneda Shunya|80|Iwasaki Yuto|20
+V-Varen Nagasaki|ST1|OG4Fxxaa|Yasuda Kenshin|0||
+V-Varen Nagasaki|ST2|MJPSq27I|Yamasaki Ryogo|0||
+Nagoya Grampus|GK|0fhdWFGG|Schmidt Daniel|85|Pisano Alexandre|15
+Nagoya Grampus|RB|MspCpWmH|Uchida Takuya|40||
+Nagoya Grampus|RCB|EodlFepK|Hara Teruki|90||
+Nagoya Grampus|LCB|GzIwlvOh|Fujii Haruya|90||
+Nagoya Grampus|LB|OfizaPZr|Sato Yota|60|Tokumoto Shuhei|30
+Nagoya Grampus|RM|2yjy9cAn|Nakayama Katsuhiro|90||
+Nagoya Grampus|CM1|Ee15y9WD|Izumi Ryuji|70|Nogami Yuki|30
+Nagoya Grampus|CM2|hMI5ilKQ|Inagaki Sho|90||
+Nagoya Grampus|LM|Wn8VA940|Takamine Tomoki|90||
+Nagoya Grampus|ST1|0zoCUMn2|Kimura Yudai|80||
+Nagoya Grampus|ST2|K4pVwEHn|Yamagishi Yuya|70|Nagai Kensuke|30
+Okayama|GK|bP2PyJLK|Moser Lennart|40||
+Okayama|RCB|tvyFFKuR|Tatsuta Yugo|90||
+Okayama|CB|Y7iA6S9d|Mori Soichiro|70||
+Okayama|LCB|6ZId3kPc|Fujii Yota|60||
+Okayama|LWB|YRkuByjC|Motoyama Haruka|70|Yamane Towa|30
+Okayama|CM1|tQVYYDjK|Oberdan|90||
+Okayama|CM2|WpbBugnb|Miyamoto Eiji|90||
+Okayama|CM3|r7D3fQrO|Esaka Ataru|80||
+Okayama|RWB|Y7jSPRR3|Yamane Towa|30||
+Okayama|ST1|ANUIGCFB|Kawano Kota|70|Na Sang-Ho|30
+Okayama|ST2|zVPeDRFj|Browne Noah|60|Lucao|40
+Shimizu S-Pulse|GK|6R7c8ZjC|Oki Yuya|100|Umeda Togo|30
+Shimizu S-Pulse|RB|0p5QYR9d|Park Seung-Wook|100|Honda Yuki|20
+Shimizu S-Pulse|RCB|6wUC71Sm|Takahashi Yuji|0|Sumiyoshi Jelani|30
+Shimizu S-Pulse|LCB|8MhP1iUo|Brunetti Mateus|100|Yoshida Yutaka|20
+Shimizu S-Pulse|LB|lG3wURuU|Sugai Hidehiro|100||
+Shimizu S-Pulse|CM1|djl04ncC|Yumiba Masaki|100|Hirato Taiki|30
+Shimizu S-Pulse|CM2|E9Kqkmb9|Koizumi Kei|100|Won Du-Jae|40
+Shimizu S-Pulse|CM3|df1pac4I|Hirato Taiki|30||
+Shimizu S-Pulse|LW|IFLD5vh6|Fujii Tomoya|0|Germain Ryo|20
+Shimizu S-Pulse|ST|KG8pROGL|Oh Se-Hun|30||
+Shimizu S-Pulse|RW|ph1VM0Pc|Inoue Kenta|40||
+Urawa Reds|GK|08SN98M6|Nishikawa Shusaku|90||
+Urawa Reds|RB|nF1ccKKP|Miyamoto Yuta|90||
+Urawa Reds|RCB|65bpTwwE|Danilo Boza|90||
+Urawa Reds|LCB|vukErg7B|Nemoto Kenta|80|Naganuma Yoichi|20
+Urawa Reds|LB|WhlD6sUn|Hayashi Kotaro|80|Yamane Miki|20
+Urawa Reds|RM|ARthlsr5|Matheus Savio|90||
+Urawa Reds|CM1|GfGP7FPn|Gustafson Samuel|0||
+Urawa Reds|CM2|ltH96Kx0|Seko Tatsuki|90||
+Urawa Reds|LM|Qk7ucgJt|Watanabe Ryoma|80|Hayakawa Junpei|20
+Urawa Reds|ST1|IFpdseGH|Kaneko Takuro|90||
+Urawa Reds|ST2|zPT4uL6r|Komori Hiiro|60|Minamino Harumi|40
+Verdy|GK|IZfSZjW4|Matheus|90||
+Verdy|RB|CGqmdNJ1|Hayashi Naoki|90||
+Verdy|RCB|EHw0B0OF|Uchida Yosuke|90||
+Verdy|LCB|GKxJmKGt|Mizoguchi Shuhei|90||
+Verdy|LB|hMezqfRR|Sako Maaya|80|Cho Yu-Min|20
+Verdy|RM|WnO2vVbK|Morita Koki|70|Saito Kosuke|30
+Verdy|CM1|6eL3pv2M|Hirakawa Rei|80||
+Verdy|CM2|UJD5UW8p|Shibato Kai|0||
+Verdy|LM|YsE854lO|Arai Yuta|90||
+Verdy|ST1|nmGAdoJu|Ichimi Kazunari|80||
+Verdy|ST2|YFgEhlc8|Someno Itsuki|90||

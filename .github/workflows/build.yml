@@ -1,0 +1,51 @@
+name: build lineups
+
+on:
+  push:
+    paths: ["gw/**", "data/**", "scripts/**"]
+  workflow_dispatch:
+    inputs:
+      action:
+        description: "build, new_gw or lock"
+        required: true
+        default: build
+        type: choice
+        options: [build, new_gw, lock]
+      gw:
+        description: "Gameweek number (blank = gw/CURRENT; for new_gw, the new round)"
+        required: false
+
+concurrency:
+  group: lineups
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run
+        env:
+          ACTION: ${{ github.event.inputs.action || 'build' }}
+          GW: ${{ github.event.inputs.gw }}
+        run: |
+          set -e
+          if [ "$ACTION" = "new_gw" ]; then python scripts/new_gw.py "$GW"; fi
+          if [ "$ACTION" = "lock" ]; then python scripts/build.py $GW && python scripts/lock.py $GW; fi
+          python scripts/build.py $GW
+          cat gw/gw$(printf %02d ${GW:-$(cat gw/CURRENT)})/changes.md >> "$GITHUB_STEP_SUMMARY"
+      - name: Commit generated files
+        run: |
+          git config user.name "lineups-bot"
+          git config user.email "lineups-bot@users.noreply.github.com"
+          git add -A gw
+          if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
+          git commit -m "build: ${{ github.event.inputs.action || 'build' }} $(date -u +%F_%H:%M)"
+          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 5; done
+          exit 1

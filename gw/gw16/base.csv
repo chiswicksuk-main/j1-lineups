@@ -1,0 +1,221 @@
+club,club_id,slot,player_id,player,start_pct,alt_id,alt,alt_pct
+Avispa Fukuoka,SdMQZTB5,GK,MR1NsPbH,Nagaishi Takumi,80,0n0OevZ1,Obata Yuma,20
+Avispa Fukuoka,SdMQZTB5,RCB,Krg5HFaS,Oka Teppei,30,,,
+Avispa Fukuoka,SdMQZTB5,CB,ADoSopEl,Kamijima Takumi,40,,,
+Avispa Fukuoka,SdMQZTB5,LCB,zBJCcjeB,Mikuni Kennedy,60,ADoSopEl,Kamijima Takumi,40
+Avispa Fukuoka,SdMQZTB5,RWB,jT2ryehG,Yuzawa Masato,30,,,
+Avispa Fukuoka,SdMQZTB5,LWB,UiYBwUra,Hashimoto Yu,70,jT2ryehG,Yuzawa Masato,30
+Avispa Fukuoka,SdMQZTB5,CM1,4OI1ucHo,Nago Shintaro,60,,,
+Avispa Fukuoka,SdMQZTB5,CM2,CxbWaIym,Shiihashi Keiya,90,,,
+Avispa Fukuoka,SdMQZTB5,AM1,htyTaRci,Miki Tomoya,90,,,
+Avispa Fukuoka,SdMQZTB5,AM2,xWA8OaC3,Morooka Shu,80,,,
+Avispa Fukuoka,SdMQZTB5,ST,6aOZmuVI,Werik Popo,40,,,
+Cerezo Osaka,rJJl6Vtt,GK,W2gAnweA,Nakamura Kosuke,90,,,
+Cerezo Osaka,rJJl6Vtt,RCB,4Op0XKni,Cools Dion,90,,,
+Cerezo Osaka,rJJl6Vtt,CB,I9hJmtqd,Inoue Rikito,90,,,
+Cerezo Osaka,rJJl6Vtt,LCB,6NFqRQVg,Hernandez Javi,30,,,
+Cerezo Osaka,rJJl6Vtt,RWB,Ee6elGkD,Okuda Hayato,70,UL8ps7E2,Nakamura Takumi,30
+Cerezo Osaka,rJJl6Vtt,LWB,fwzNXsdM,Ohata Ayumu,90,,,
+Cerezo Osaka,rJJl6Vtt,CM1,fVxtoo6b,Tanaka Shunta,90,,,
+Cerezo Osaka,rJJl6Vtt,CM2,SvwMecZH,Irvine Jackson,90,,,
+Cerezo Osaka,rJJl6Vtt,AM1,6kXjN933,Komi Yota,0,,,
+Cerezo Osaka,rJJl6Vtt,AM2,dCKgW023,Uejo Satoki,60,jyU3B5mA,Yokoyama Yumeki,30
+Cerezo Osaka,rJJl6Vtt,ST,xCFyZrMr,Sakuragawa Solomon,90,,,
+Chiba,zNLhJb1S,GK,0rz4GFOI,Suarez Jose,100,,,
+Chiba,zNLhJb1S,RB,GhBYVWlo,Nduka Boniface,100,,,
+Chiba,zNLhJb1S,RCB,pOyU6etA,Mae Takayuki,100,jRI2xQE4,Ishio Rikuto,20
+Chiba,zNLhJb1S,LCB,GKJRUiI2,Suzuki Daisuke,100,UNWTs5Dg,Kawano Takashi,30
+Chiba,zNLhJb1S,LB,WpxtQDnB,Hidaka Masaru,100,,,
+Chiba,zNLhJb1S,RM,ttwkBqgl,Himeno Makoto,20,,,
+Chiba,zNLhJb1S,CM1,jolG2yOP,Eduardo,100,zTAfEprg,Taguchi Taishi,30
+Chiba,zNLhJb1S,CM2,hECeLcdC,Yasui Takuya,100,,,
+Chiba,zNLhJb1S,LM,C2jqPGEo,Tsukui Takumi,100,ttwkBqgl,Himeno Makoto,20
+Chiba,zNLhJb1S,ST1,GANn7AeA,Erison,0,xKwbgQB2,Rocha Leonardo,20
+Chiba,zNLhJb1S,ST2,UDz1X5Ft,Yamura Ken,100,8Eht1ANR,Ishikawa Daichi,20
+FC Tokyo,8zCQQGg2,GK,xh6I9nD4,Kim Seung-Gyu,90,,,
+FC Tokyo,8zCQQGg2,RB,WlxcFa1s,Omori Rio,60,EwiNuF2j,Muroya Sei,40
+FC Tokyo,8zCQQGg2,CB,t2NQwpc2,Scholz Alexander,90,,,
+FC Tokyo,8zCQQGg2,LCB,hARvxzYg,Inamura Hayato,90,,,
+FC Tokyo,8zCQQGg2,RWB,2aL80Yc8,Nagano Shuto,60,6XJOc06T,Tokiwa Kyota,40
+FC Tokyo,8zCQQGg2,LWB,nmq2McPl,Hashimoto Kento,0,,,
+FC Tokyo,8zCQQGg2,CM1,Cnmw6VIj,Ko Takahiro,70,2aL80Yc8,Nagano Shuto,30
+FC Tokyo,8zCQQGg2,CM2,rNfUxITr,Anzai Soma,90,,,
+FC Tokyo,8zCQQGg2,LW,lIUwocI4,Tawaratsumida Kota,40,,,
+FC Tokyo,8zCQQGg2,ST,jHl92Gbb,Nakagawa Teruhito,80,fDHl6ap2,Marcelo Ryan,20
+FC Tokyo,8zCQQGg2,RW,Wln2UVxD,Nagakura Motoki,80,,,
+Gamba Osaka,zLQAGOBK,GK,Sh6wsQzf,Higashiguchi Masaaki,50,GI2mKyvt,Ichimori Jun,50
+Gamba Osaka,zLQAGOBK,RB,IkmGysUI,Hatsuse Ryo,90,,,
+Gamba Osaka,zLQAGOBK,RCB,dYRKGgc2,Nakatani Shinnosuke,90,,,
+Gamba Osaka,zLQAGOBK,LCB,OrvjsmOO,Fukuoka Shota,75,lIcF6q4d,Miura Genta,25
+Gamba Osaka,zLQAGOBK,LB,h41KLCgp,Kishimoto Takeru,70,4xgYkfJj,Fujiwara Soya,30
+Gamba Osaka,zLQAGOBK,DM,Gzr3zsID,Abe Shuto,90,,,
+Gamba Osaka,zLQAGOBK,RM,bXpOd8V5,Yamashita Ryoya,90,,,
+Gamba Osaka,zLQAGOBK,CM1,KpDU2SzS,Usami Takashi,80,,,
+Gamba Osaka,zLQAGOBK,CM2,YR4wXg6e,Sumi Koshiro,20,,,
+Gamba Osaka,zLQAGOBK,LM,OhZyRClJ,Suzuki Tokuma,0,,,
+Gamba Osaka,zLQAGOBK,ST,hfWBXuHn,Jebali Issam,30,,,
+Sanfrecce Hiroshima,fX7MRdvd,GK,lj1TfyEN,Osako Keisuke,90,,,
+Sanfrecce Hiroshima,fX7MRdvd,RB,dtYvErFI,Arai Naoto,90,,,
+Sanfrecce Hiroshima,fX7MRdvd,RCB,fihnFope,Kim Ju-Sung,80,,,
+Sanfrecce Hiroshima,fX7MRdvd,LCB,nozTiQDq,Nakano Shuto,90,,,
+Sanfrecce Hiroshima,fX7MRdvd,LB,OhH0vWqn,Araki Hayato,90,,,
+Sanfrecce Hiroshima,fX7MRdvd,RM,2sRX1w7g,Kawabe Hayao,90,,,
+Sanfrecce Hiroshima,fX7MRdvd,CM1,4EZAATvH,Higashi Shunki,80,hrtAeMR0,Suga Daiki,20
+Sanfrecce Hiroshima,fX7MRdvd,CM2,lrscbe6I,Asano Takuma,85,SrcFKJ6h,Yengi Kusini,15
+Sanfrecce Hiroshima,fX7MRdvd,LM,UiSH4veB,Nakajima Yotaro,20,,,
+Sanfrecce Hiroshima,fX7MRdvd,ST1,UaoSznYD,Ayukawa Shun,80,Ie17FSsK,Haller Sebastien,20
+Sanfrecce Hiroshima,fX7MRdvd,ST2,v7mrKZwg,Suzuki Akito,90,,,
+Kashima Antlers,4nNKlKo9,GK,j7riesZ7,Hayakawa Tomoki,100,,,
+Kashima Antlers,4nNKlKo9,RB,fB38uhme,Tsukui Keisuke,100,pbf4Ggw5,Koike Ryuta,20
+Kashima Antlers,4nNKlKo9,RCB,re0ioyuT,Ueda Naomichi,100,,,
+Kashima Antlers,4nNKlKo9,LCB,ljZAGxy9,Sekigawa Ikuma,100,,,
+Kashima Antlers,4nNKlKo9,LB,dpxg9jM8,Ogawa Ryoya,100,pGSniFFr,Okawa Yugo,20
+Kashima Antlers,4nNKlKo9,CM1,SQuTSYJ6,Misao Kento,100,,,
+Kashima Antlers,4nNKlKo9,CM2,jqR08VnU,Matheus Bueno,100,SQuTSYJ6,Misao Kento,30
+Kashima Antlers,4nNKlKo9,CM3,jwWkkVGq,Matsumura Yuta,100,jcwmFxmo,Hayashu Haruki,20
+Kashima Antlers,4nNKlKo9,LW,jcwmFxmo,Hayashu Haruki,100,,,
+Kashima Antlers,4nNKlKo9,ST,IN84nZ9n,Leo Ceara,100,,,
+Kashima Antlers,4nNKlKo9,RW,hQjkLsOs,Elber,100,,,
+Kashiwa Reysol,hEbtKvnM,GK,08JXXFWr,Nagai Kengo,100,KpSgJUEb,Kojima Ryosuke,10
+Kashiwa Reysol,hEbtKvnM,RCB,G2P7KddC,Harada Wataru,100,nXTgbSB1,Inukai Tomoya,20
+Kashiwa Reysol,hEbtKvnM,CB,GSJrgJyG,Sugioka Daiki,100,EiyfdDx3,Mitsumaru Hiromu,30
+Kashiwa Reysol,hEbtKvnM,LCB,MwrXqvUh,Koga Taiyo,100,nXTgbSB1,Inukai Tomoya,20
+Kashiwa Reysol,hEbtKvnM,LWB,pzNj7AI0,Yamauchi Hinata,0,juqm8wul,Yuruki Koya,25
+Kashiwa Reysol,hEbtKvnM,CM1,fcNjRm4h,Koizumi Yoshio,100,,,
+Kashiwa Reysol,hEbtKvnM,CM2,GStRRD7b,Yuba Kenshin,100,,,
+Kashiwa Reysol,hEbtKvnM,CM3,pnxZZhoN,Toshima Sachiro,100,xAt7pUWb,Harakawa Riki,30
+Kashiwa Reysol,hEbtKvnM,RWB,xIg1lVAM,Nakagawa Nobuteru,0,,,
+Kashiwa Reysol,hEbtKvnM,ST1,jR9WEx45,Kakita Yuki,100,,,
+Kashiwa Reysol,hEbtKvnM,ST2,ngaPJ0w1,Endo Keita,100,GStRRD7b,Yuba Kenshin,30
+Kawasaki Frontale,bF5XL0H9,GK,xnQ2YurF,Brodersen Svend,85,CKjQe4C9,Thebault-Yamaguchi Louis,15
+Kawasaki Frontale,bF5XL0H9,RB,0QTTljGC,Sasaki Asahi,70,G6VNRC0H,Miura Sota,30
+Kawasaki Frontale,bF5XL0H9,RCB,QuyDxLZf,Pedro Romano,90,,,
+Kawasaki Frontale,bF5XL0H9,LCB,SdretQu9,Maruyama Yuichi,20,,,
+Kawasaki Frontale,bF5XL0H9,LB,tEoFCVZm,Yamahara Reon,70,G6VNRC0H,Miura Sota,30
+Kawasaki Frontale,bF5XL0H9,CM1,ChQbP9Ng,Yamamoto Yuki,90,,,
+Kawasaki Frontale,bF5XL0H9,CM2,juLDxe14,Wakizaka Yasuto,90,,,
+Kawasaki Frontale,bF5XL0H9,CM3,tlDN6Nj3,Tachibanada Kento,80,ljjeodCK,Kawahara So,20
+Kawasaki Frontale,bF5XL0H9,LW,EkMrawol,Ito Tatsuya,80,naadcf4b,Yamaichi Shuto,20
+Kawasaki Frontale,bF5XL0H9,ST,jmwUfsih,Derik Lacerda,80,SUvnEu63,Mochiyama Kyosuke,20
+Kawasaki Frontale,bF5XL0H9,RW,Umiqe0mn,Marcinho,90,,,
+Vissel Kobe,698tGI9q,GK,4GZS8kqF,Gonda Shuichi,100,I5s6Xoir,Maekawa Daiya,20
+Vissel Kobe,698tGI9q,RB,fVzFUKpP,Thuler Matheus,100,,,
+Vissel Kobe,698tGI9q,RCB,Ieya9BE2,Sakai Gotoku,100,,,
+Vissel Kobe,698tGI9q,LCB,OEECyHGh,Yamakawa Tetsushi,100,nydjrOG3,Caetano,20
+Vissel Kobe,698tGI9q,LB,MmRtdva7,Diego,100,z5IENaLt,Sasaki Daiju,30
+Vissel Kobe,698tGI9q,CM1,nFsquRHs,Iwamoto Yuan,100,,,
+Vissel Kobe,698tGI9q,CM2,l23WMZLJ,Ideguchi Yosuke,100,,,
+Vissel Kobe,698tGI9q,CM3,2oZobOMu,Erik,0,Ei5Ph7aU,Goke Yuta,30
+Vissel Kobe,698tGI9q,LW,z5IENaLt,Sasaki Daiju,100,,,
+Vissel Kobe,698tGI9q,ST,OYzftLLu,Osako Yuya,100,ILJikFyo,Komatsu Ren,20
+Vissel Kobe,698tGI9q,RW,8bbTIqDq,Muto Yoshinori,100,,,
+Kyoto,fZS33RAH,GK,f5heQzuH,Halls,70,vu2H3tye,Ota Gakuji,30
+Kyoto,fZS33RAH,RCB,G8PNZ1mk,Suzuki Yoshinori,90,,,
+Kyoto,fZS33RAH,CB,MsehZ73J,Tawiah Hisashi,70,SzKDvhv3,Nagata Kodai,30
+Kyoto,fZS33RAH,LCB,ALVROJNu,Shichi Takaaki,70,,,
+Kyoto,fZS33RAH,LWB,GEuvsIIU,Arai Haruki,80,,,
+Kyoto,fZS33RAH,CM1,Qu2zuIPq,Fukuoka Shimpei,75,,,
+Kyoto,fZS33RAH,CM2,UkX34zGs,Yoon Sung-jun,90,,,
+Kyoto,fZS33RAH,RWB,ngY45L69,Sato Kyo,75,,,
+Kyoto,fZS33RAH,LW,xS8Qrq94,Joao Pedro,80,,,
+Kyoto,fZS33RAH,ST,rTA0Phdt,Rafael Elias,90,,,
+Kyoto,fZS33RAH,RW,vsfc9jVi,Souza Alex,80,Sns4FCZL,Marco Tulio,20
+Machida,CUSC1dab,GK,EBqHJ83f,Tani Kosei,90,,,
+Machida,CUSC1dab,RWB,U5eJc1lj,Mochizuki Henry,70,bkdADBKs,Nakamura Hotaka,30
+Machida,CUSC1dab,RCB,MXlmnIbn,Kim Min-Tae,80,,,
+Machida,CUSC1dab,CB,OQCYWjRJ,Akimoto Takahiro,90,,,
+Machida,CUSC1dab,LCB,KCrs7IMJ,Dresevic Ibrahim,70,G6vAyqV1,Ouwejan Thomas,30
+Machida,CUSC1dab,LWB,bkdADBKs,Nakamura Hotaka,30,,,
+Machida,CUSC1dab,CM1,x2hxtNut,Lavi Neta,80,d0ABBtcF,Shimoda Hokuto,20
+Machida,CUSC1dab,CM2,zkOsuSHN,Mae Hiroyuki,90,,,
+Machida,CUSC1dab,LW,0xFkEenH,Ogawa Koki,80,zDFlzabo,Duke Mitchell,20
+Machida,CUSC1dab,ST,GflioxEh,Nishimura Takuma,80,YTFoCLya,Yengi Tete,20
+Machida,CUSC1dab,RW,ImC4kgFM,Soma Yuki,90,,,
+Yokohama F. Marinos,4h6TMt23,GK,n3rFNyGm,Iikura Hiroki,85,hbKdNBwb,Park Il-gyu,15
+Yokohama F. Marinos,4h6TMt23,RB,EPRkre2N,Kimura Takuto,80,rscsOlqC,Inoue Taisei,20
+Yokohama F. Marinos,4h6TMt23,RCB,fi1q88sH,Quinones Jeison,90,,,
+Yokohama F. Marinos,4h6TMt23,LCB,lncYDfBi,Tsunoda Ryotaro,40,,,
+Yokohama F. Marinos,4h6TMt23,LB,vT7Z1uXd,Suzuki Toichi,80,QBod5CiI,Sekitomi Kanta,20
+Yokohama F. Marinos,4h6TMt23,DM1,Sl9w6n22,Matsumura Kosuke,90,,,
+Yokohama F. Marinos,4h6TMt23,DM2,GWvS4eAs,Tanaka Yuta,40,,,
+Yokohama F. Marinos,4h6TMt23,LW,t0MoA6X2,Amano Jun,70,jmRO1dmQ,Tono Daiya,20
+Yokohama F. Marinos,4h6TMt23,AM,jmRO1dmQ,Tono Daiya,70,000G4rhg,Miidera Shin,30
+Yokohama F. Marinos,4h6TMt23,RW,zurjYIX2,Kondo Tomoki,90,,,
+Yokohama F. Marinos,4h6TMt23,ST,nojtqShj,Tanimura Kaina,90,,,
+Mito,GliRsh4P,GK,dInRxWRL,Slowik Jakub,100,K8Z2cHKK,Nishikawa Konosuke,30
+Mito,GliRsh4P,RWB,hCCM6TUg,Fofana Malick,0,4b1VwlEE,Kimoto Yasuki,30
+Mito,GliRsh4P,RCB,IeqGfDmp,Itakura Kenta,100,,,
+Mito,GliRsh4P,CB,IRqD6bib,Osaki Koshi,100,,,
+Mito,GliRsh4P,LCB,WtCRSH55,Tamura Yuri,100,,,
+Mito,GliRsh4P,LWB,vNyZJQB8,Funabashi Yu,100,,,
+Mito,GliRsh4P,CM1,MNGQOJcB,Okumura Jin,100,SxAGPRMG,Kato Chihiro,30
+Mito,GliRsh4P,CM2,t0RDaqJt,Nishihara Motoki,100,SpVABoKk,Yamamoto Hayata,30
+Mito,GliRsh4P,CM3,zNUDcG12,Semba Taishi,100,,,
+Mito,GliRsh4P,ST1,U7NJJz3r,Nemoto Ryo,100,v57uM5fk,Watanabe Arata,30
+Mito,GliRsh4P,ST2,QoSaqVfk,Tada Keisuke,0,t6IEKU2l,Taniguchi Kaito,30
+V-Varen Nagasaki,hl74HAcF,GK,SjRXLP3t,Goto Masaaki,90,,,
+V-Varen Nagasaki,hl74HAcF,RB,h0X32Mse,Onaga Hijiri,80,,,
+V-Varen Nagasaki,hl74HAcF,RCB,n96QB1B0,Egawa Yusei,90,,,
+V-Varen Nagasaki,hl74HAcF,LCB,vRGsMsVr,Shindo Ryosuke,80,63PlCK9b,Arai Ikki,20
+V-Varen Nagasaki,hl74HAcF,LB,Y3y21gqi,Doi Kanta,80,,,
+V-Varen Nagasaki,hl74HAcF,RM,6aPobL4Q,Hasegawa Motoki,80,AZ4MOhtL,Yamada Riku,20
+V-Varen Nagasaki,hl74HAcF,CM1,fZS9KY5a,Yamaguchi Hotaru,90,,,
+V-Varen Nagasaki,hl74HAcF,CM2,QiA1xmop,Matheus Jesus,90,,,
+V-Varen Nagasaki,hl74HAcF,LM,SQuFbAWm,Yoneda Shunya,80,G8ciauwo,Iwasaki Yuto,20
+V-Varen Nagasaki,hl74HAcF,ST1,OG4Fxxaa,Yasuda Kenshin,0,,,
+V-Varen Nagasaki,hl74HAcF,ST2,MJPSq27I,Yamasaki Ryogo,0,,,
+Nagoya Grampus,6BeXoaup,GK,0fhdWFGG,Schmidt Daniel,85,QHMeQnIA,Pisano Alexandre,15
+Nagoya Grampus,6BeXoaup,RB,MspCpWmH,Uchida Takuya,40,,,
+Nagoya Grampus,6BeXoaup,RCB,EodlFepK,Hara Teruki,90,,,
+Nagoya Grampus,6BeXoaup,LCB,GzIwlvOh,Fujii Haruya,90,,,
+Nagoya Grampus,6BeXoaup,LB,OfizaPZr,Sato Yota,60,biNHASJB,Tokumoto Shuhei,30
+Nagoya Grampus,6BeXoaup,RM,2yjy9cAn,Nakayama Katsuhiro,90,,,
+Nagoya Grampus,6BeXoaup,CM1,Ee15y9WD,Izumi Ryuji,70,ATsZJ1RT,Nogami Yuki,30
+Nagoya Grampus,6BeXoaup,CM2,hMI5ilKQ,Inagaki Sho,90,,,
+Nagoya Grampus,6BeXoaup,LM,Wn8VA940,Takamine Tomoki,90,,,
+Nagoya Grampus,6BeXoaup,ST1,0zoCUMn2,Kimura Yudai,80,,,
+Nagoya Grampus,6BeXoaup,ST2,K4pVwEHn,Yamagishi Yuya,70,M3JYi2kr,Nagai Kensuke,30
+Okayama,vDpqgnYn,GK,bP2PyJLK,Moser Lennart,40,,,
+Okayama,vDpqgnYn,RCB,tvyFFKuR,Tatsuta Yugo,90,,,
+Okayama,vDpqgnYn,CB,Y7iA6S9d,Mori Soichiro,70,,,
+Okayama,vDpqgnYn,LCB,6ZId3kPc,Fujii Yota,60,,,
+Okayama,vDpqgnYn,LWB,YRkuByjC,Motoyama Haruka,70,Y7jSPRR3,Yamane Towa,30
+Okayama,vDpqgnYn,CM1,tQVYYDjK,Oberdan,90,,,
+Okayama,vDpqgnYn,CM2,WpbBugnb,Miyamoto Eiji,90,,,
+Okayama,vDpqgnYn,CM3,r7D3fQrO,Esaka Ataru,80,,,
+Okayama,vDpqgnYn,RWB,Y7jSPRR3,Yamane Towa,30,,,
+Okayama,vDpqgnYn,ST1,ANUIGCFB,Kawano Kota,70,2Blk98sh,Na Sang-Ho,30
+Okayama,vDpqgnYn,ST2,zVPeDRFj,Browne Noah,60,MBL79T3U,Lucao,40
+Shimizu S-Pulse,vPgupwAd,GK,6R7c8ZjC,Oki Yuya,100,phetRbep,Umeda Togo,30
+Shimizu S-Pulse,vPgupwAd,RB,0p5QYR9d,Park Seung-Wook,100,AHobUSYB,Honda Yuki,20
+Shimizu S-Pulse,vPgupwAd,RCB,6wUC71Sm,Takahashi Yuji,0,zDcQ7M7d,Sumiyoshi Jelani,30
+Shimizu S-Pulse,vPgupwAd,LCB,8MhP1iUo,Brunetti Mateus,100,Mk6iYE6t,Yoshida Yutaka,20
+Shimizu S-Pulse,vPgupwAd,LB,lG3wURuU,Sugai Hidehiro,100,,,
+Shimizu S-Pulse,vPgupwAd,CM1,djl04ncC,Yumiba Masaki,100,df1pac4I,Hirato Taiki,30
+Shimizu S-Pulse,vPgupwAd,CM2,E9Kqkmb9,Koizumi Kei,100,WIUUxIZQ,Won Du-Jae,40
+Shimizu S-Pulse,vPgupwAd,CM3,df1pac4I,Hirato Taiki,30,,,
+Shimizu S-Pulse,vPgupwAd,LW,IFLD5vh6,Fujii Tomoya,0,rFH5vHWi,Germain Ryo,20
+Shimizu S-Pulse,vPgupwAd,ST,KG8pROGL,Oh Se-Hun,30,,,
+Shimizu S-Pulse,vPgupwAd,RW,ph1VM0Pc,Inoue Kenta,40,,,
+Urawa Reds,C8IHSxPk,GK,08SN98M6,Nishikawa Shusaku,90,,,
+Urawa Reds,C8IHSxPk,RB,nF1ccKKP,Miyamoto Yuta,90,,,
+Urawa Reds,C8IHSxPk,RCB,65bpTwwE,Danilo Boza,90,,,
+Urawa Reds,C8IHSxPk,LCB,vukErg7B,Nemoto Kenta,80,tIRHbJNt,Naganuma Yoichi,20
+Urawa Reds,C8IHSxPk,LB,WhlD6sUn,Hayashi Kotaro,80,44ryjdb8,Yamane Miki,20
+Urawa Reds,C8IHSxPk,RM,ARthlsr5,Matheus Savio,90,,,
+Urawa Reds,C8IHSxPk,CM1,GfGP7FPn,Gustafson Samuel,0,,,
+Urawa Reds,C8IHSxPk,CM2,ltH96Kx0,Seko Tatsuki,90,,,
+Urawa Reds,C8IHSxPk,LM,Qk7ucgJt,Watanabe Ryoma,80,MNfqGF15,Hayakawa Junpei,20
+Urawa Reds,C8IHSxPk,ST1,IFpdseGH,Kaneko Takuro,90,,,
+Urawa Reds,C8IHSxPk,ST2,zPT4uL6r,Komori Hiiro,60,OdjAV0jm,Minamino Harumi,40
+Verdy,ppNYGTQb,GK,IZfSZjW4,Matheus,90,,,
+Verdy,ppNYGTQb,RB,CGqmdNJ1,Hayashi Naoki,90,,,
+Verdy,ppNYGTQb,RCB,EHw0B0OF,Uchida Yosuke,90,,,
+Verdy,ppNYGTQb,LCB,GKxJmKGt,Mizoguchi Shuhei,90,,,
+Verdy,ppNYGTQb,LB,hMezqfRR,Sako Maaya,80,YcZV8Yaj,Cho Yu-Min,20
+Verdy,ppNYGTQb,RM,WnO2vVbK,Morita Koki,70,0EQoQHIN,Saito Kosuke,30
+Verdy,ppNYGTQb,CM1,6eL3pv2M,Hirakawa Rei,80,,,
+Verdy,ppNYGTQb,CM2,UJD5UW8p,Shibato Kai,0,,,
+Verdy,ppNYGTQb,LM,YsE854lO,Arai Yuta,90,,,
+Verdy,ppNYGTQb,ST1,nmGAdoJu,Ichimi Kazunari,80,,,
+Verdy,ppNYGTQb,ST2,YFgEhlc8,Someno Itsuki,90,,,
