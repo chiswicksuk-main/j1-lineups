@@ -1,6 +1,6 @@
 # GW16 lineups
 
-Built 2026-11-23 23:49 GMT. 49 availability rows. El Golazo in for 0/20 clubs.
+Built 2026-11-23 23:50 GMT. 49 availability rows. El Golazo in for 0/20 clubs.
 
 ## Needs you
 
