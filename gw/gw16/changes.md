@@ -1,6 +1,6 @@
 # GW16 lineups
 
-Built 2026-11-23 23:50 GMT. 49 availability rows. El Golazo in for 0/20 clubs.
+Built 2026-11-24 08:49 GMT. 56 availability rows. El Golazo in for 0/20 clubs.
 
 ## Needs you
 
@@ -30,6 +30,7 @@ Built 2026-11-23 23:50 GMT. 49 availability rows. El Golazo in for 0/20 clubs.
 - LW Tawaratsumida Kota: ticked starter at 40% with no alternate, check
 
 ### Gamba Osaka (GW base)
+- CM1 Usami Takashi: DOUBT: DOUBT LIKELY/B (Expected to miss ACL Elite v Port on 25 Nov per press; later match availability unresolved; Sponichi Annex [Hub DSR-20261124-02] 2026-11-24)
 - CM2 Sumi Koshiro: ticked starter at 20% with no alternate, check
 - LM Suzuki Tokuma: ticked starter at 0% with no alternate, check
 - ST Jebali Issam: DOUBT: DOUBT LIKELY/B (Omitted from R15 squad after reported leg concern; R17 (29 Nov at Kawasaki) availability unknown; Chunichi Sports via Yahoo [Hub LIVE-20261123-001] 2026-11-22); ticked starter at 30% with no alternate, check
@@ -68,6 +69,7 @@ Built 2026-11-23 23:50 GMT. 49 availability rows. El Golazo in for 0/20 clubs.
 ### V-Varen Nagasaki (GW base)
 - Out: Shindo Ryosuke. In: Arai Ikki
 - LCB Arai Ikki: Shindo Ryosuke removed: OUT CONFIRMED/A (Shindo diagnosed with left MCL injury; V-Varen Nagasaki club announcement [Hub DSR-20261121-03] 2026-11-21). Alternate promoted, set Start %
+- LM Yoneda Shunya: DOUBT: DOUBT CONFIRMED/A (Concussion-substitution protocol on 21 Nov; clearance and 25 Nov readiness unverified; J.League match record 34658 [Hub DSR-20261124-03] 2026-11-21)
 - ST1 Yasuda Kenshin: ticked starter at 0% with no alternate, check
 - ST2 Yamasaki Ryogo: ticked starter at 0% with no alternate, check
 
