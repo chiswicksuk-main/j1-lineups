@@ -1,6 +1,6 @@
 # GW16 lineups
 
-Built 2026-11-24 23:48 GMT. 57 availability rows. El Golazo in for 0/20 clubs.
+Built 2026-11-25 08:48 GMT. 61 availability rows. El Golazo in for 0/20 clubs.
 
 ## Needs you
 
@@ -50,7 +50,7 @@ Built 2026-11-24 23:48 GMT. 57 availability rows. El Golazo in for 0/20 clubs.
 - LCB Maruyama Yuichi: ticked starter at 20% with no alternate, check
 
 ### Vissel Kobe (GW base)
-- RW Muto Yoshinori: DOUBT: DOUBT LIKELY/B (Injury withdrawal 27 minutes on 20 Nov. Next-match availability unknown.; Gekisaka [Hub DSR-20261120-01] 2026-11-20)
+- RW Muto Yoshinori: DOUBT: DOUBT CONFIRMED/A (Not in ACLE squad v Cong An Hanoi 24 Nov after 20 Nov injury exit; heavy rotation; 28 Nov readiness unresolved; J.League ACLE match 112408 lineup [Hub DSR-20261125-04] 2026-11-24)
 
 ### Kyoto (GW base)
 - GK Halls: DOUBT: DOUBT CONFIRMED/A (Not in ACLE matchday squad v Pohang 24 Nov after 21 Nov injury exit; no diagnosis; R17 (28 Nov v Cerezo) availability unknown; J.League ACLE match 112405 lineup [Hub LIVE-20261124-005] 2026-11-24)
