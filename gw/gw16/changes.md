@@ -1,6 +1,6 @@
 # GW16 lineups
 
-Built 2026-11-25 08:49 GMT. 61 availability rows. El Golazo in for 0/20 clubs.
+Built 2026-11-25 23:48 GMT. 67 availability rows. El Golazo in for 0/20 clubs.
 
 ## Needs you
 
@@ -36,8 +36,7 @@ Built 2026-11-25 08:49 GMT. 61 availability rows. El Golazo in for 0/20 clubs.
 - ST Jebali Issam: DOUBT: DOUBT LIKELY/B (Omitted from R15 squad after reported leg concern; R17 (29 Nov at Kawasaki) availability unknown; Chunichi Sports via Yahoo [Hub LIVE-20261123-001] 2026-11-22); ticked starter at 30% with no alternate, check
 
 ### Sanfrecce Hiroshima (GW base)
-- RCB Kim Ju-Sung: DOUBT: DOUBT LIKELY/A (Manager says injury substitution at 85 minutes; nature unconfirmed; R16 (25 Nov) availability doubtful; J.League match 112103 review [Hub LIVE-20261122-004] 2026-11-21)
-- CM2 Asano Takuma: DOUBT: DOUBT LIKELY/A (Manager confirms calf-area problem; extent unknown; R16 (25 Nov) availability doubtful; J.League match 112103 review [Hub LIVE-20261122-003] 2026-11-21)
+- CM2 Asano Takuma: DOUBT: DOUBT CONFIRMED/A (Not in R16 matchday squad (25 Nov) after 21 Nov calf-area injury exit; no diagnosis; R17 (28 Nov at Kashiwa) availability doubtful; J.League match 112503 lineup [Hub LIVE-20261125-001] 2026-11-25)
 - LM Nakajima Yotaro: ticked starter at 20% with no alternate, check
 
 ### Kashima Antlers (GW base)
@@ -53,7 +52,7 @@ Built 2026-11-25 08:49 GMT. 61 availability rows. El Golazo in for 0/20 clubs.
 - RW Muto Yoshinori: DOUBT: DOUBT CONFIRMED/A (Not in ACLE squad v Cong An Hanoi 24 Nov after 20 Nov injury exit; heavy rotation; 28 Nov readiness unresolved; J.League ACLE match 112408 lineup [Hub DSR-20261125-04] 2026-11-24)
 
 ### Kyoto (GW base)
-- GK Halls: DOUBT: DOUBT CONFIRMED/A (Not in ACLE matchday squad v Pohang 24 Nov after 21 Nov injury exit; no diagnosis; R17 (28 Nov v Cerezo) availability unknown; J.League ACLE match 112405 lineup [Hub LIVE-20261124-005] 2026-11-24)
+- GK Halls: DOUBT: DOUBT LIKELY/B (Left leg or foot injury reported from 21 Nov exit; no diagnosis; R17 (28 Nov v Cerezo) availability doubtful; Football Zone [Hub LIVE-20261125-006] 2026-11-25)
 
 ### Machida (GW base)
 - LWB Nakamura Hotaka: ticked starter at 30% with no alternate, check
@@ -69,7 +68,6 @@ Built 2026-11-25 08:49 GMT. 61 availability rows. El Golazo in for 0/20 clubs.
 ### V-Varen Nagasaki (GW base)
 - Out: Shindo Ryosuke. In: Arai Ikki
 - LCB Arai Ikki: Shindo Ryosuke removed: OUT CONFIRMED/A (Shindo diagnosed with left MCL injury; V-Varen Nagasaki club announcement [Hub DSR-20261121-03] 2026-11-21). Alternate promoted, set Start %
-- LM Yoneda Shunya: DOUBT: DOUBT CONFIRMED/A (Concussion-substitution protocol on 21 Nov; clearance and 25 Nov readiness unverified; J.League match record 34658 [Hub DSR-20261124-03] 2026-11-21)
 - ST1 Yasuda Kenshin: ticked starter at 0% with no alternate, check
 - ST2 Yamasaki Ryogo: ticked starter at 0% with no alternate, check
 
