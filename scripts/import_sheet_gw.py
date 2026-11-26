@@ -1,14 +1,16 @@
 """One-off import of a gameweek's XIs read from the Google Sheet club tabs.
 
 Usage: python scripts/import_sheet_gw.py 15 import/gw15_slots.txt
-Writes gw/gw15/final.csv (layer = sheet). Alternates are matched to an ID by
+       python scripts/import_sheet_gw.py 17 import/gw17_slots.txt --base
+Writes gw/gw15/final.csv (layer = sheet), or with --base writes gw/gw17/base.csv
+so the sheet XIs become the round's base and build.py layers news on top. Alternates are matched to an ID by
 exact name within the same club. Anything unmatched is left blank and flagged.
 """
 import sys
 from common import XI_COLS, FINAL_COLS, gw_path, write_csv, players, clubs, pct
 
 
-def main(gw, src):
+def main(gw, src, as_base=False):
     reg = players()
     by_name = {}
     for p in reg.values():
@@ -35,12 +37,13 @@ def main(gw, src):
                          start_pct=pct(sp) if sp else "", alt_id=alt_id, alt=alt,
                          alt_pct=pct(ap) if ap else "", layer="sheet",
                          flags="; ".join(flags)))
-    write_csv(gw_path(gw, "final.csv"), FINAL_COLS, rows)
-    print(f"wrote {len(rows)} rows to gw{int(gw):02d}/final.csv")
+    out = "base.csv" if as_base else "final.csv"
+    write_csv(gw_path(gw, out), XI_COLS if as_base else FINAL_COLS, rows)
+    print(f"wrote {len(rows)} rows to gw{int(gw):02d}/{out}")
     bad = [r for r in rows if r["flags"]]
     for r in bad:
         print(" ", r["club"], r["slot"], r["player"], "->", r["flags"])
 
 
 if __name__ == "__main__":
-    main(int(sys.argv[1]), sys.argv[2])
+    main(int(sys.argv[1]), sys.argv[2], "--base" in sys.argv[3:])

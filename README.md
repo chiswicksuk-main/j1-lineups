@@ -30,3 +30,5 @@ gw/gwNN/locked.csv   frozen at teamsheet time
 Rules for AIs are in `AGENTS.md`.
 
 GW15 was imported from the "J1 Lineups GW15" sheet club tabs on 23 Nov 2026 (`import/gw15_slots.txt`). Start % values are editorial judgements, not calibrated probabilities.
+
+GW17 base was imported from the "J1 Lineups GW17" sheet club tabs on 26 Nov 2026 (`import/gw17_slots.txt`, `python scripts/import_sheet_gw.py 17 import/gw17_slots.txt --base`). Blank Start % in the sheet is read as 90. GW16 was an auto-created copy of GW15 and is kept only as a record.
