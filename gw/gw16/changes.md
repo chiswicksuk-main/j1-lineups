@@ -1,10 +1,11 @@
 # GW16 lineups
 
-Built 2026-11-25 23:48 GMT. 67 availability rows. El Golazo in for 0/20 clubs.
+Built 2026-11-26 08:49 GMT. 70 availability rows. El Golazo in for 0/20 clubs.
 
 ## Needs you
 
 - V-Varen Nagasaki LCB: Arai Ikki promoted, set Start %
+- Verdy LM: NEEDS PICK, Arai Yuta SUSPENDED
 
 ## Problems
 
@@ -88,3 +89,4 @@ Built 2026-11-25 23:48 GMT. 67 availability rows. El Golazo in for 0/20 clubs.
 
 ### Verdy (GW base)
 - CM2 Shibato Kai: ticked starter at 0% with no alternate, check
+- LM Arai Yuta: NEEDS PICK: Arai Yuta SUSPENDED LIKELY/B (Sent off at 17 minutes in R16 at Mito (25 Nov); J.League suspension notice not yet published; R17 (29 Nov at Machida) at risk; Sportsnavi match data [Hub LIVE-20261126-001] 2026-11-25), no usable alternate; ticked starter at 0% with no alternate, check
