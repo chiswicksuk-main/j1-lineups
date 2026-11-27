@@ -1,6 +1,6 @@
 # GW17 lineups
 
-Built 2026-11-27 08:49 GMT. 32 availability rows. El Golazo in for 0/20 clubs.
+Built 2026-11-27 23:49 GMT. 44 availability rows. El Golazo in for 0/20 clubs.
 
 ## Needs you
 
@@ -31,7 +31,7 @@ Built 2026-11-27 08:49 GMT. 32 availability rows. El Golazo in for 0/20 clubs.
 - No change
 
 ### Kashima Antlers (GW base)
-- ST Suzuki Yuma: DOUBT: DOUBT WATCH/A (Ban served; earlier injury unresolved; R17 (28 Nov) fitness unknown [carried from GW16, re-check]; J.League disciplinary notice [Hub LIVE-20261122-007] 2026-11-17)
+- No change
 
 ### Kashiwa Reysol (GW base)
 - No change
