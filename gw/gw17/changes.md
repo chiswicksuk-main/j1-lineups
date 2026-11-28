@@ -1,6 +1,6 @@
 # GW17 lineups
 
-Built 2026-11-27 23:49 GMT. 44 availability rows. El Golazo in for 0/20 clubs.
+Built 2026-11-28 08:49 GMT. 57 availability rows. El Golazo in for 0/20 clubs.
 
 ## Needs you
 
@@ -40,7 +40,7 @@ Built 2026-11-27 23:49 GMT. 44 availability rows. El Golazo in for 0/20 clubs.
 - No change
 
 ### Vissel Kobe (GW base)
-- RW Muto Yoshinori: DOUBT: DOUBT WATCH/A (Not in ACLE squad v Cong An Hanoi 24 Nov after 20 Nov injury exit; heavy rotation; 28 Nov readiness unresolved [carried from GW16, re-check]; J.League ACLE match 112408 lineup [Hub DSR-20261125-04] 2026-11-24)
+- RW Muto Yoshinori: DOUBT: DOUBT WATCH/A (Not in R17 squad v Chiba (28 Nov) after 20 Nov injury exit and 24 Nov ACLE omission; no diagnosis or timetable; J.League match 112808 lineup [Hub DSR-20261128-07] 2026-11-28)
 
 ### Kyoto (GW base)
 - No change
